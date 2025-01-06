@@ -160,6 +160,7 @@ ol {
     border: 2px solid #40424a;
     color: #40424a;
     font-weight: 700;
+    cursor: pointer;
 }
 
 .site-btn:hover {
@@ -496,6 +497,13 @@ ol {
 .resume-list li {
     margin-bottom: 120px;
     position: relative;
+    opacity: 0.6;
+}
+
+.resume-list li:first-child {
+    margin-bottom: 120px;
+    position: relative;
+    opacity: 0.9;
 }
 
 .resume-list li:last-child {
