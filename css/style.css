@@ -514,6 +514,12 @@ ol {
     left: -118px;
 }
 
+.resume-list li:first-child:after {
+    border: 2px solid #ff0000;
+    background: #ff0000;
+}
+
+
 .resume-list h2 {
     font-size: 72px;
     margin-bottom: 10px;
