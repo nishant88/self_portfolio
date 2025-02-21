@@ -1,17 +1,17 @@
 var skills = [
   {
-    header: "INTERESTS",
-    captions: ["Cooking", "Web", "Mobile", "Design", "AI"],
+    header: "AGILE",
+    captions: ["Capacity", "SCRUM", "ESTIMATIONS", "KANBAN", "JIRA"],
     values: [0.7, 0.9, 0.7, 0.8, 0.7],
   },
   {
-    header: "LANGUAGES",
-    captions: ["nodeJS", "PHP", "JS", "Ruby", "Java"],
+    header: "TECH",
+    captions: ["JS", "HTML", "CSS", "REACT JS", "FRAMEWORKS"],
     values: [0.8, 0.85, 0.9, 0.7, 0.9],
   },
   {
     header: "MISC",
-    captions: ["Eclipse", "Git", "Rails", "OpenGL", "Linux"],
+    captions: ["VS CODE", "GIT", "DEV OPS", "UI/UX", "LINUX"],
     values: [0.85, 0.85, 0.75, 0.6, 0.8],
   },
 ];
